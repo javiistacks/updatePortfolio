@@ -17,6 +17,7 @@ My updated portfolio allows a users to find where to best contact me and view wh
 * [Development](#development)
 * [Deployment](#deployment)
 * [Special Thanks](#special-thanks)
+* [Directions for Future Development](#directions-for-future-development)
 * [License](#license)
 
 ## myPortfolio Demos
@@ -75,6 +76,10 @@ Site repository at [myPortfolio](https://github.com/javiistacks/updatePortfolio)
 
 ## Deployment
 Site deployed at [myPortfolio](https://javiistacks.github.io/updatePortfolio/)
+
+## Directions for Future Development
+
+* I started adding the hire me page which will direct the user to be able to send me a message depending on what type of work they want to collaborate with.
 
 
 ## Special Thanks
