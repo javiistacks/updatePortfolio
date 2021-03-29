@@ -4,21 +4,39 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/javiistacks/updatePortfolio)
 ![GitHub top language](https://img.shields.io/github/languages/top/javiistacks/updatePortfolio)
 
+# myPortfolio
+
+My updated portfolio allows a users to find where to best contact me and view what projects i recentle been working on.
+
+## Created by
+* [Javiann Marrero](https://github.com/javiistacks)
 
 
+## Table of Contents
+* [myPortfolio Demos](#myPortfolio-demos)
+* [Development](#development)
+* [Deployment](#deployment)
 
 
+## myPortfolio Demos
 
+### Screencast on wide screen
+![Screencast on wide screen](gif goes here)
 
-### I used Bootstrap
+### Screencast on mobile
+![Screencast on mobile](gis goes here)
+
+## Development
+
+### Bootstrap
 * [Bootstrap](https://getbootstrap.com/)
   * Bootstrap was used for layout and mobile responsivess
 
-## Github Repository
 
+### Github Repository
 Site repository at [myPortfolio](https://github.com/javiistacks/updatePortfolio)
-## Deployment
 
+## Deployment
 Site deployed at [myPortfolio](https://javiistacks.github.io/updatePortfolio/)
 
 ## License
