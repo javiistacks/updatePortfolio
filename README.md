@@ -18,6 +18,43 @@ My updated portfolio allows a users to find where to best contact me and view wh
 * [Deployment](#deployment)
 
 
+
+
+## Screenshots of My Portfolio
+
+<img src="./assets/img/readme/home.jpg" width="550" height="400">
+
+A. On the top Nav bar you will find links that will navigate the user to different pages. Depending on what information they want to find out about me. 
+
+B. The contact me link will navigate the user to my aboutMe.html.
+
+<img src="./assets/img/readme/homeSkills.jpg" width="550" height="400">
+
+C. I listed all the languages we are learning in the bootcamp plus a brief description of what they all do. 
+
+<img src="./assets/img/readme/homeFooter.jpg" width="550" height="400">
+
+D. On the home page you will a picture of my first project and link to deployed website. 
+
+E. Every page has a footer which will help the user navigate to other pages in my portfolio. It also has social media icon that will direct user to my guthub account and linkedin. 
+
+<img src="./assets/img/readme/projects.jpg" width="550" height="400">
+
+F. By clicking on the picture it will navigate the user to the deployed website. 
+
+G. By clicking on the name of the project it will take the user to that projects repository. 
+
+<img src="./assets/img/readme/aboutMeWork.jpg" width="550" height="400">
+
+H. I added a link that will enable the user to download my resume. 
+
+I. I listed my previous work and education for the user can understand my work experience and education. 
+
+<img src="./assets/img/readme/aboutMeEducation.jpg" width="550" height="400">
+
+J. In my contact info you can find where to follow me on linkedin, github, email and phone number. 
+
+
 ## myPortfolio Demos
 
 ### Screencast on wide screen
