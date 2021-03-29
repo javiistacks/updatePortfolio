@@ -6,7 +6,7 @@
 
 # myPortfolio
 
-My updated portfolio allows a users to find where to best contact me and view what projects i recentle been working on.
+My updated portfolio allows a users to find where to best contact me and view what projects i recently been working on.
 
 ## Created by
 * [Javiann Marrero](https://github.com/javiistacks)
@@ -45,7 +45,7 @@ C. I listed all the languages we are learning in the bootcamp plus a brief descr
 
 D. On the home page you will a picture of my first project and link to deployed website. 
 
-E. Every page has a footer which will help the user navigate to other pages in my portfolio. It also has social media icon that will direct user to my guthub account and linkedin. 
+E. Every page has a footer which will help the user navigate to other pages in my portfolio. It also has social media icon that will direct user to my Github account and linkedin. 
 
 <img src="./assets/img/readme/projects.jpg" width="550" height="400">
 
