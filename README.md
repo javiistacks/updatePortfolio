@@ -16,6 +16,8 @@ My updated portfolio allows a users to find where to best contact me and view wh
 * [myPortfolio Demos](#myPortfolio-demos)
 * [Development](#development)
 * [Deployment](#deployment)
+* [Special Thanks](#special-thanks)
+* [License](#license)
 
 ## myPortfolio Demos
 
@@ -73,6 +75,11 @@ Site repository at [myPortfolio](https://github.com/javiistacks/updatePortfolio)
 
 ## Deployment
 Site deployed at [myPortfolio](https://javiistacks.github.io/updatePortfolio/)
+
+
+## Special Thanks
+
+* [Charles Fisher](https://github.com/cdfishe1) for helping me with my read me page, he helped me add the license, language count badge, and top language badge.
 
 ## License
 
