@@ -17,7 +17,13 @@ My updated portfolio allows a users to find where to best contact me and view wh
 * [Development](#development)
 * [Deployment](#deployment)
 
+## myPortfolio Demos
 
+### Display on wide screen
+![Screencast on wide screen](assets/img/readme/wideScreen.gif)
+
+### Display on mobile
+![Screencast on mobile](assets/img/readme/mobileFirst.gif)
 
 
 ## Screenshots of My Portfolio
@@ -54,14 +60,6 @@ I. I listed my previous work and education for the user can understand my work e
 
 J. In my contact info you can find where to follow me on linkedin, github, email and phone number. 
 
-
-## myPortfolio Demos
-
-### Screencast on wide screen
-![Screencast on wide screen](gif goes here)
-
-### Screencast on mobile
-![Screencast on mobile](gis goes here)
 
 ## Development
 
